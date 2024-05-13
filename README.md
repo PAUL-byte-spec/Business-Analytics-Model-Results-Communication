@@ -4,7 +4,7 @@
 # Overview
 Customer churn is a critical aspect for companies like JP Lauren, an IT infrastructure services provider. Understanding why customers leave can help in improving services and retaining customers. This GitHub repository contains code and resources for analyzing customer churn using Python and Jupyter Notebook.
 
-Clone the Repository:
+Clone the Repository: https://github.com/PAUL-byte-spec/Business-Analytics-Model-Results-Communication.git
 
 # Step-by-Step Instructions for Executing Code in Jupyter Notebook
 # Import Necessary Libraries:
