@@ -17,7 +17,7 @@ Clone the Repository: https://github.com/PAUL-byte-spec/Business-Analytics-Model
 * python: the Python programming language itself
   
 # Load Data CSV:
-* Data was loaded into jupyter notbook for handling missing value and handling inconsistencies. 
+* Dataset was loaded into jupyter notbook for handling missing value and handling inconsistencies. 
 * The cleaned dataset.csv was uploaded into the jupyter notebook to train and build the model. 
 
 # Model Training:
