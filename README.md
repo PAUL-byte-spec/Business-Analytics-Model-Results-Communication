@@ -17,7 +17,8 @@ Clone the Repository: https://github.com/PAUL-byte-spec/Business-Analytics-Model
 * python: the Python programming language itself
   
 # Load Data CSV:
-* The cleaned dataset.csv was loaded into the jupyter notebook. 
+* Data was loaded into jupyter notbook for handling missing value and handling inconsistencies. 
+* The cleaned dataset.csv was uploaded into the jupyter notebook to train and build the model. 
 
 # Model Training:
 Train machine learning models to predict customer churn based on historical data. Appropriate algorithms such as logistic regression. The goal is to build models that can accurately predict which customers are likely to churn in the future.
